@@ -1,0 +1,14 @@
+*{padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+#site-content {
+    width: 70%;
+    margin: auto;
+}
+
+.box {
+      height: 3rem;
+      border: 1px solid black;
+}
